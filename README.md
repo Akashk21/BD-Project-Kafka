@@ -11,7 +11,7 @@ external libraries or APIs.
 
 # KafkaStreamAnalyzer
 
-![Kafka Logo] ![download](https://github.com/Akashk21/KafkaStreamAnalyzer/assets/71625383/358a9c3c-3665-4219-94c2-596cf30563b3)
+ ![download](https://github.com/Akashk21/KafkaStreamAnalyzer/assets/71625383/358a9c3c-3665-4219-94c2-596cf30563b3)
 
 KafkaStreamAnalyzer is a real-time data streaming and analysis project built using Apache Kafka and related technologies. It provides a framework for processing and analyzing data streams with high throughput and low latency.
 
